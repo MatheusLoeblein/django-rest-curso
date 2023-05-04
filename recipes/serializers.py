@@ -46,7 +46,6 @@ class RecipeSerializer(serializers.ModelSerializer):
         source='tags',
         view_name='recipes:recipes_api_v2_tag',
         read_only=True
-
     )
 
     def any_method_name(self, recipe):

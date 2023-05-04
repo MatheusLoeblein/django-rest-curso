@@ -1,5 +1,4 @@
 // Gerando Token
-
 (async function func(){
     console.clear();
     const headers = {
