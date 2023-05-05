@@ -13,3 +13,4 @@ from .templates import *
 from .debug_toolbar import *  # isort:skip
 
 from .rest_framework import *  # isort:skip
+from .cors_headers import * # isort:skip

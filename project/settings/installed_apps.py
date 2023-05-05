@@ -5,6 +5,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'corsheaders',
     # DJANGO REST FRAMEWORK
     "rest_framework_simplejwt",
     "rest_framework",
